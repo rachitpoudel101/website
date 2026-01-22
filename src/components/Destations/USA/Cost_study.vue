@@ -10,14 +10,14 @@
 
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900"
+              <span class="font-semibold text-gray-900 font-sans"
                 >Tuition Fees (Public Universities):</span
               >
               USD <span class="font-semibold">9,000–23,000/year</span> depending
               on residency and program.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900"
+              <span class="font-semibold text-gray-900 font-sans"
                 >Tuition Fees (Private Universities):</span
               >
               USD
@@ -25,19 +25,19 @@
               the institution.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900"
+              <span class="font-semibold text-gray-900 font-sans"
                 >Community/Two-Year Colleges:</span
               >
               USD <span class="font-semibold">3,000–6,000/year</span> for
               tuition.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900">Living Costs:</span> USD
+              <span class="font-semibold text-gray-900 font-sans">Living Costs:</span> USD
               <span class="font-semibold">10,000–15,000/year</span> depending on
               city and lifestyle.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900"
+              <span class="font-semibold text-gray-900 font-sans"
                 >Average Total (Study + Living):</span
               >
               USD
@@ -47,46 +47,47 @@
           </ul>
 
           <p class="text-gray-700 text-base leading-relaxed mb-6">
-            <span class="text-orange-600 font-medium"
+            <span class="text-orange-600 font-medium font-sans text-lg"
               >Grace International India</span
             >
-            provides guidance on budgeting, financial aid, and managing expenses
+            <span class="font-sans text-gray-700">provides guidance on budgeting, financial aid, and managing expenses
             for Indian students in the USA.
+          </span>
           </p>
 
-          <h2 class="text-3xl font-bold text-gray-900 mb-6">
+          <h2 class="text-3xl font-bold text-gray-900 mb-6 font-sans">
             Work Opportunities & Post-Study Options
           </h2>
 
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900">On-Campus Work:</span>
+              <span class="font-semibold text-gray-900 font-sans">On-Campus Work:</span>
               Indian students on F-1 visas can work part-time
               <span class="font-semibold">up to 20 hours per week</span> during
               semesters; full-time during breaks.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900"
+              <span class="font-semibold text-gray-900 font-sans"
                 >Optional Practical Training (OPT):</span
               >
               <ul class="ml-6 mt-2 space-y-1">
-                <li class="text-gray-600 text-base">
+                <li class="text-gray-600 text-base font-sans text-lg">
                   Bachelor's or Master's – up to 12 months
                 </li>
-                <li class="text-gray-600 text-base">
+                <li class="text-gray-600 text-base font-sans text-lg">
                   STEM Degrees – can extend for an additional 24 months
                 </li>
               </ul>
             </li>
           </ul>
 
-          <p class="text-gray-700 text-base leading-relaxed mb-6">
+          <p class="text-gray-700 text-base leading-relaxed mb-6 font-sans text-lg">
             OPT allows Indian students to gain practical work experience in the
             USA after graduation.
           </p>
 
-          <p class="text-gray-700 text-sm leading-relaxed">
-            <span class="font-semibold text-gray-900"
+          <p class="text-gray-700 text-lg leading-relaxed">
+            <span class="font-semibold text-gray-900 font-sans"
               >Career & Visa Pathways:</span
             >
             Indian students can explore H-1B work visas and other

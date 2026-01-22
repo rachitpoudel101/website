@@ -13,69 +13,70 @@
 
         <!-- Right Content -->
         <div class="order-1 lg:order-2">
-          <h2 class="text-2xl font-bold text-gray-900 mb-6">
+          <h2 class="text-2xl font-bold text-gray-900 mb-6 font-sans">
             Top Universities in Canada
           </h2>
           <ul class="space-y-3 mb-6">
-            <li class="text-gray-700 text-lg">University of Toronto</li>
-            <li class="text-gray-700 text-lg">
+            <li class="text-gray-700 text-lg font-sans">University of Toronto</li>
+            <li class="text-gray-700 text-lg font-sans">
               University of British Columbia (UBC)
             </li>
-            <li class="text-gray-700 text-lg">McGill University</li>
-            <li class="text-gray-700 text-lg">University of Alberta</li>
-            <li class="text-gray-700 text-lg">University of Waterloo</li>
+            <li class="text-gray-700 text-lg font-sans">McGill University</li>
+            <li class="text-gray-700 text-lg font-sans">University of Alberta</li>
+            <li class="text-gray-700 text-lg font-sans">University of Waterloo</li>
           </ul>
 
-          <h2 class="text-2xl font-bold text-gray-900 mb-6">
+          <h2 class="text-2xl font-bold text-gray-900 mb-6 font-sans">
             Popular Courses for Indian Students
           </h2>
           <ul class="space-y-3 mb-6">
-            <li class="text-gray-700 text-lg">
+            <li class="text-gray-700 text-lg font-sans">
               Business & Management (MBA, Finance, Analytics)
             </li>
-            <li class="text-gray-700 text-lg">IT & Computer Science</li>
-            <li class="text-gray-700 text-lg">
+            <li class="text-gray-700 text-lg font-sans">IT & Computer Science</li>
+            <li class="text-gray-700 text-lg font-sans">
               Engineering (Computer, Mechanical, Civil, Electrical)
             </li>
-            <li class="text-gray-700 text-lg">
+            <li class="text-gray-700 text-lg font-sans">
               Health Sciences (Nursing, Public Health, Biotechnology)
             </li>
-            <li class="text-gray-700 text-lg">
+            <li class="text-gray-700 text-lg font-sans">
               Data Science & Artificial Intelligence
             </li>
           </ul>
 
-          <h2 class="text-2xl font-bold text-gray-900 mb-6">
+          <h2 class="text-2xl font-bold text-gray-900 mb-6 font
+          -sans">
             Scholarships for Indian Students
           </h2>
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900"
+              <span class="font-semibold text-gray-900 font-sans"
                 >Vanier Canada Graduate Scholarships</span
               >
               – Prestigious awards for doctoral students.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900"
+              <span class="font-semibold text-gray-900 font-sans"
                 >Ontario Graduate Scholarship (OGS)</span
               >
               – For students studying in Ontario.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900"
+              <span class="font-semibold text-gray-900 font-sans"
                 >University Entrance & Merit Scholarships</span
               >
               – Offered by institutions like UofT, UBC, and McGill.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900"
+              <span class="font-semibold text-gray-900 font-sans"
                 >Partial Tuition Waivers</span
               >
               – Available for academically strong international students.
             </li>
           </ul>
 
-          <p class="text-gray-600 text-base italic">
+          <p class="text-gray-600 text-base italic text-lg">
             Tip: Strong IELTS, PTE, or TOEFL scores improve chances of receiving
             scholarships at top Canadian universities.
           </p>

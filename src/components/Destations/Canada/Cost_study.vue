@@ -4,23 +4,23 @@
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-start">
         <!-- Left Content -->
         <div class="order-1 lg:order-1">
-          <h2 class="text-3xl font-bold text-gray-900 mb-6">
+          <h2 class="text-3xl font-bold text-gray-900 mb-6 font-sans">
             Cost of Studying in Canada
           </h2>
 
           <ul class="space-y-3 mb-6">
-            <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900">Tuition Fees:</span>
+            <li class="text-gray-700 text-lg ">
+              <span class="font-semibold text-gray-900 font-sans">Tuition Fees:</span>
               CAD <span class="font-semibold">15,000–30,000/year</span>
               depending on the program and institution.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900">Living Costs:</span>
+              <span class="font-semibold text-gray-900 font-sans">Living Costs:</span>
               CAD <span class="font-semibold">10,000–15,000/year</span>
               depending on city and lifestyle.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900"
+              <span class="font-semibold text-gray-900 font-sans"
                 >Average Total (Study + Living):</span
               >
               CAD
@@ -28,27 +28,28 @@
             </li>
           </ul>
 
-          <p class="text-gray-700 text-base leading-relaxed mb-6">
+          <p class="text-gray-700 text-base leading-relaxed mb-6 font-sans">
             <span class="text-orange-600 font-medium"
               >Grace International India</span
             >
-            helps students plan budgets, choose affordable institutions, and
-            manage living expenses effectively in Canada.
+            <span> </span>
+             <span class="font-sans text-gray-700"> helps students plan budgets, choose affordable institutions, and
+            manage living expenses effectively in Canada.</span>
           </p>
 
-          <h2 class="text-2xl font-bold text-gray-900 mb-6">
+          <h2 class="text-2xl font-bold text-gray-900 mb-6 font-sans">
             Work & PR Opportunities
           </h2>
 
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900">Part-Time Work:</span>
+              <span class="font-semibold text-gray-900 font-sans">Part-Time Work:</span>
               Up to
               <span class="font-semibold">20 hours per week</span> during study
               sessions and full-time during scheduled breaks.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900"
+              <span class="font-semibold text-gray-900 font-sans"
                 >Post-Graduation Work Permit (PGWP):</span
               >
               Allows students to work in Canada for up to
@@ -57,19 +58,19 @@
             </li>
           </ul>
 
-          <p class="text-gray-700 text-base leading-relaxed mb-6">
+          <p class="text-gray-700 text-base leading-relaxed mb-6 font-sans">
             Canadian work experience gained through PGWP significantly improves
             employability and future immigration prospects.
           </p>
 
           <p class="text-gray-700 text-base leading-relaxed">
-            <span class="font-semibold text-gray-900">PR Pathways:</span>
+            <span class="font-semibold text-gray-900 font-sans text-lg">PR Pathways:</span>
             International students can apply for permanent residency through
             programs such as
             <span class="font-semibold"
               >Express Entry and Provincial Nominee Programs (PNP)</span
             >
-            after gaining skilled work experience.
+            <span class="font-sans text-gray-900 text-md"> after gaining skilled work experience.</span>
           </p>
         </div>
 

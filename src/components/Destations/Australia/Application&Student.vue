@@ -10,48 +10,48 @@
 
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900">Major Intakes:</span>
-              February and July (some universities also offer October).
+              <span class="font-semibold text-gray-900 font-sans">Major Intakes:</span>
+              <p>February and July (some universities also offer October).</p>
             </li>
-            <li class="text-gray-700 text-sm">
-              <span class="font-semibold text-gray-900">Requirements:</span>
-              English proficiency (IELTS, PTE, TOEFL), academic transcripts,
-              SOP, LORs, financial proof.
+            <li class="text-gray-700 text-lg">
+              <span class="font-semibold text-gray-900 font-sans">Requirements:</span>
+             <p> English proficiency (IELTS, PTE, TOEFL), academic transcripts,
+              SOP, LORs, financial proof. </p>
             </li>
-            <li class="text-gray-700 text-sm">
-              <span class="font-semibold text-gray-900"
-                >Student Visa (Subclass 500):</span
+            <li class="text-gray-700 text-lg">
+              <span class="font-semibold text-gray-900 font-sans"
+                >Student Visa (Subclass 500):</span>
               >
-              Requires Confirmation of Enrolment (CoE), Overseas Student Health
+              Requires Confirmation of Enrolment (CoE), Overseas Student Health 
               Cover (OSHC), and proof of funds for tuition + living expenses.
             </li>
           </ul>
 
-          <p class="text-gray-700 text-base leading-relaxed mb-6">
+          <p class="text-gray-700 text-base leading-relaxed mb-6  text-md font-sans">
             Our team guides students through every step of the Australia student
             visa process in Delhi, ensuring high success rates.
           </p>
 
-          <h2 class="text-3xl font-bold text-gray-900 mb-6">
+          <h2 class="text-3xl font-bold text-gray-900 mb-6 font-sans">
             Why Choose Grace International India for Australia?
           </h2>
 
           <ul class="space-y-3 mb-6">
-            <li class="text-gray-700 text-lg">
+            <li class="text-gray-700 text-lg font-sans">
               Direct tie-ups with leading Australian universities.
             </li>
-            <li class="text-gray-700 text-base">
+            <li class="text-gray-700 text-base font-sans">
               End-to-end support: counselling, test prep, applications, visas,
               scholarships.
             </li>
-            <li class="text-gray-700 text-base">
+            <li class="text-gray-700 text-base font-sans">
               Latest guidance on post-study work and PR pathways.
             </li>
-            <li class="text-gray-700 text-base">
+            <li class="text-gray-700 text-base font-sans">
               Pre-departure sessions + on-ground support from Grace offices in
               Australia.
             </li>
-            <li class="text-gray-700 text-base">
+            <li class="text-gray-700 text-base font-sans">
               Recognized as one of the best Australia education consultants in
               Delhi with 20+ years of expertise.
             </li>

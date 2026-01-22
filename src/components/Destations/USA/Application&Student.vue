@@ -4,23 +4,23 @@
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-start">
         <!-- Left Content -->
         <div class="order-2 lg:order-1">
-          <h2 class="text-3xl font-bold text-gray-900 mb-6">
+          <h2 class="text-3xl font-bold text-gray-900 mb-6 font-sans">
             Application & Student Visa Process for the USA
           </h2>
 
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900">Major Intakes:</span>
+              <span class="font-semibold text-gray-900 font-sans">Major Intakes:</span>
               Fall (August/September) and Spring (January), some universities
               also offer Summer (May/June).
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900">Requirements:</span>
+              <span class="font-semibold text-gray-900 font-sans">Requirements:</span>
               English proficiency (TOEFL, IELTS), GRE/GMAT (for some programs),
               academic transcripts, SOP, LORs, financial proof.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900"
+              <span class="font-semibold text-gray-900 font-sans"
                 >Student Visa (F-1):</span
               >
               Requires Form I-20 from the university, proof of funds, SEVIS fee,
@@ -28,33 +28,33 @@
             </li>
           </ul>
 
-          <p class="text-gray-700 text-base leading-relaxed mb-6">
+          <p class="text-gray-700 text-base leading-relaxed mb-6 font-sans">
             Our team guides students through every step of the US student visa
             process in Delhi, ensuring smooth application and high success
             rates.
           </p>
 
-          <h2 class="text-3xl font-bold text-gray-900 mb-6">
+          <h2 class="text-3xl font-bold text-gray-900 mb-6 font-sans">
             Why Choose Grace International India for the USA?
           </h2>
 
           <ul class="space-y-3 mb-6">
-            <li class="text-gray-700 text-lg">
+            <li class="text-gray-700 text-lg font-sans">
               Direct tie-ups with leading US universities.
             </li>
-            <li class="text-gray-700 text-lg">
+            <li class="text-gray-700 text-lg font-sans">
               End-to-end support: counselling, test prep, applications, visas,
               scholarships.
             </li>
-            <li class="text-gray-700 text-lg">
+            <li class="text-gray-700 text-lg font-sans">
               Latest guidance on post-study work options, OPT, and H-1B
               pathways.
             </li>
-            <li class="text-gray-700 text-lg">
+            <li class="text-gray-700 text-lg font-sans">
               Pre-departure sessions + on-ground support from Grace offices in
               the USA.
             </li>
-            <li class="text-gray-700 text-lg">
+            <li class="text-gray-700 text-lg font-sans">
               Recognized as one of the top US education consultants in Delhi
               with 20+ years of expertise.
             </li>

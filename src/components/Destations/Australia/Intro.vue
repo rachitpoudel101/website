@@ -14,13 +14,13 @@
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
         <!-- Content -->
         <div>
-          <h2 class="text-2xl font-bold text-gray-900 mb-6">
+          <h2 class="text-2xl font-bold text-gray-900 mb-6 font-sans">
             Australian Education System
           </h2>
 
           <ul class="space-y-4">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900"
+              <span class="font-semibold text-gray-900 font-sans"
                 >Government Schools</span
               >
               – Operated by State or Territory governments. International
@@ -29,7 +29,7 @@
             </li>
 
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900"
+              <span class="font-semibold text-gray-900 font-sans"
                 >Non-Government Schools</span
               >
               – Privately operated institutions that may follow religious or
@@ -38,21 +38,21 @@
             </li>
 
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900">ELICOS Programs</span>
+              <span class="font-semibold text-gray-900 font-sans">ELICOS Programs</span>
               – English language courses ranging from 4 to 48 weeks, with at
               least 20 hours of study per week and flexible intake dates
               throughout the year.
             </li>
 
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900">Universities</span> –
+              <span class="font-semibold text-gray-900 font-sans">Universities</span> –
               Australia has 43 universities offering over 22,000 courses across
               1,100 institutions, with strong global rankings and research
               focus.
             </li>
           </ul>
 
-          <p class="text-gray-700 text-base leading-relaxed mt-6">
+          <p class="text-gray-700 text-base leading-relaxed mt-6 font-sans text-md">
             After completing their studies, international students may be
             eligible for the Temporary Graduate Visa (Subclass 485), allowing
             them to gain valuable work experience in Australia for up to 2–4

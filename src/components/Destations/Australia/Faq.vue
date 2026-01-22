@@ -20,10 +20,10 @@
           <div class="space-y-5">
             <!-- FAQ 1 -->
             <div>
-              <h3 class="text-lg font-semibold text-gray-900 mb-3">
+              <h3 class="text-lg font-semibold text-gray-900 mb-3 font-sans">
                 Q1. What are the types of schools in Australia?
               </h3>
-              <p class="text-gray-700 text-base leading-relaxed">
+              <p class="text-gray-700 text-base leading-relaxed font-sans">
                 Australia has
                 <span class="font-semibold">Government Schools</span>
                 (operated by state/territory governments) and
@@ -36,10 +36,10 @@
 
             <!-- FAQ 2 -->
             <div>
-              <h3 class="text-lg font-semibold text-gray-900 mb-3">
+              <h3 class="text-lg font-semibold text-gray-900 mb-3 font-sans ">
                 Q2. What is ELICOS and why is it important?
               </h3>
-              <p class="text-gray-700 text-base leading-relaxed">
+              <p class="text-gray-700 text-base leading-relaxed font-sans">
                 ELICOS courses are English language programs ranging from
                 <span class="font-semibold">4 to 48 weeks</span>. They are
                 designed for students needing English proficiency before
@@ -50,10 +50,10 @@
 
             <!-- FAQ 3 -->
             <div>
-              <h3 class="text-lg font-semibold text-gray-900 mb-3">
+              <h3 class="text-lg font-semibold text-gray-900 mb-3 font-sans">
                 Q3. How much does it cost to study and live in Australia?
               </h3>
-              <p class="text-gray-700 text-base leading-relaxed">
+              <p class="text-gray-700 text-base leading-relaxed font-sans">
                 Tuition fees range from
                 <span class="font-semibold">AUD 9,000 to 37,000/year</span>
                 depending on the course. Living costs start from
@@ -66,10 +66,10 @@
 
             <!-- FAQ 4 -->
             <div>
-              <h3 class="text-lg font-semibold text-gray-900 mb-3">
+              <h3 class="text-lg font-semibold text-gray-900 mb-3 font-sans">
                 Q4. Can Indian students work while studying in Australia?
               </h3>
-              <p class="text-gray-700 text-base leading-relaxed">
+              <p class="text-gray-700 text-base leading-relaxed font-sans">
                 Yes, up to
                 <span class="font-semibold">40 hours per fortnight</span> during
                 semesters and full-time during scheduled breaks. This helps
@@ -79,10 +79,10 @@
 
             <!-- FAQ 5 -->
             <div>
-              <h3 class="text-lg font-semibold text-gray-900 mb-3">
+              <h3 class="text-lg font-semibold text-gray-900 mb-3 font-sans">
                 Q5. How does admission and visa process work?
               </h3>
-              <p class="text-gray-700 text-base leading-relaxed">
+              <p class="text-gray-700 text-base leading-relaxed font-sans">
                 Applications can be submitted directly to universities or via
                 education agents. After acceptance, students receive a Letter of
                 Offer, pay a deposit, and get an
@@ -95,10 +95,10 @@
 
             <!-- FAQ 6 -->
             <div>
-              <h3 class="text-lg font-semibold text-gray-900 mb-3">
+              <h3 class="text-lg font-semibold text-gray-900 mb-3 font-sans">
                 Q6. What are post-study work and PR opportunities?
               </h3>
-              <p class="text-gray-700 text-base leading-relaxed">
+              <p class="text-gray-700 text-base leading-relaxed font-sans">
                 Graduates can apply for the
                 <span class="font-semibold"
                   >Temporary Graduate Visa (Subclass 485)</span
@@ -110,10 +110,10 @@
 
             <!-- FAQ 7 -->
             <div>
-              <h3 class="text-lg font-semibold text-gray-900 mb-3">
+              <h3 class="text-lg font-semibold text-gray-900 mb-3 font-sans">
                 Q7. Is English proficiency mandatory?
               </h3>
-              <p class="text-gray-700 text-base leading-relaxed">
+              <p class="text-gray-700 text-base leading-relaxed font-sans">
                 Yes, tests like
                 <span class="font-semibold">IELTS, PTE, or TOEFL</span> are
                 required for most courses and visa eligibility. Strong scores

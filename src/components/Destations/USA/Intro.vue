@@ -3,7 +3,7 @@
     <div class="max-w-7xl mx-auto">
       <!-- Intro Paragraph - Full Width -->
       <div class="w-full mb-12">
-        <p class="text-gray-700 text-lg leading-relaxed">
+        <p class="text-gray-700 text-lg leading-relaxed text-sans">
           The United States (USA) is one of the most sought-after study abroad
           destinations for Indian students. With world-renowned universities,
           cutting-edge research opportunities, diverse programs, and flexible
@@ -26,13 +26,13 @@
         <!-- Content Section -->
         <div>
           <div class="prose max-w-none">
-            <h2 class="text-2xl font-bold text-gray-900 mb-6">
+            <h2 class="text-2xl font-bold text-gray-900 mb-6  font-sans">
               Why Study in the USA?
             </h2>
 
             <ul class="space-y-4">
               <li class="text-gray-700 text-lg">
-                <span class="font-semibold text-gray-900"
+                <span class="font-semibold text-gray-900 font-sans"
                   >Top-Ranked Universities</span
                 >
                 – The USA hosts elite institutions such as MIT, Harvard,
@@ -41,7 +41,7 @@
               </li>
 
               <li class="text-gray-700 text-lg">
-                <span class="font-semibold text-gray-900"
+                <span class="font-semibold text-gray-900 font-sans"
                   >Wide Range of Programs</span
                 >
                 – From engineering and IT to liberal arts and business, students
@@ -50,7 +50,7 @@
               </li>
 
               <li class="text-gray-700 text-lg">
-                <span class="font-semibold text-gray-900"
+                <span class="font-semibold text-gray-900 font-sans"
                   >Cutting-Edge Research & Innovation</span
                 >
                 – Opportunities to work on advanced projects, gain lab
@@ -58,7 +58,7 @@
               </li>
 
               <li class="text-gray-700 text-lg">
-                <span class="font-semibold text-gray-900"
+                <span class="font-semibold text-gray-900 font-sans"
                   >Flexible Career Opportunities</span
                 >
                 – Access to internships, on-campus work, and Optional Practical
@@ -66,7 +66,7 @@
               </li>
 
               <li class="text-gray-700 text-lg">
-                <span class="font-semibold text-gray-900"
+                <span class="font-semibold text-gray-900 font-sans"
                   >Diverse Student Community</span
                 >
                 – Interact with students from around the world and experience a
@@ -74,7 +74,7 @@
               </li>
             </ul>
 
-            <p class="text-gray-700 text-base leading-relaxed mt-6">
+            <p class="text-gray-700 text-base leading-relaxed mt-6 font-sans text-lg">
               Indian students in the USA also benefit from strong industry
               links, networking opportunities, and pathways to work experience
               that help build successful international careers.

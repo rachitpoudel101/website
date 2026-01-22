@@ -3,7 +3,7 @@
     <div class="max-w-7xl mx-auto">
       <!-- Intro Paragraph - Full Width -->
       <div class="w-full mb-12">
-        <p class="text-gray-700 text-lg leading-relaxed">
+        <p class="text-gray-700 text-lg leading-relaxed font-sans">
           New Zealand is known for high-quality education and an unbeatable
           lifestyle. Its education system emphasizes practical, hands-on
           learning to equip students with skills and experiences that are
@@ -19,29 +19,30 @@
         <!-- Content Section -->
         <div class="order-1 lg:order-1">
           <div class="prose max-w-none">
-            <h2 class="text-2xl font-bold text-gray-900 mb-6">
+            <h2 class="text-2xl font-bold text-gray-900 mb-6 font-sans">
               Why Study in New Zealand?
             </h2>
 
             <ul class="space-y-4">
               <li class="text-gray-700">
-                <span class="font-semibold text-gray-900"
+                <span class="font-semibold text-gray-900 font-sans"
                   >World-Class Universities</span
                 >
-                – New Zealand’s universities rank in the top 3% globally,
-                offering degrees recognized internationally.
+                <span class ="font-sans">- New Zealand’s universities rank in the top 3% globally,
+                offering degrees recognized internationally.</span>
+                
               </li>
 
               <li class="text-gray-700">
-                <span class="font-semibold text-gray-900"
+                <span class="font-semibold text-gray-900 font-sans"
                   >Practical Learning</span
                 >
-                – Hands-on, student-centered education helps develop
-                problem-solving, teamwork, and critical-thinking skills.
+                <span class="font-sans">- Hands-on, student-centered education helps develop
+                problem-solving, teamwork, and critical-thinking skills.</span>
               </li>
 
               <li class="text-gray-700">
-                <span class="font-semibold text-gray-900"
+                <span class="font-semibold text-gray-900 font-sans"
                   >Safe and Welcoming Environment</span
                 >
                 – New Zealand is culturally diverse, safe, and known for its
@@ -49,7 +50,7 @@
               </li>
 
               <li class="text-gray-700">
-                <span class="font-semibold text-gray-900"
+                <span class="font-semibold text-gray-900 font-sans"
                   >Work Opportunities</span
                 >
                 – Students can work part-time during study periods and full-time
@@ -58,7 +59,7 @@
               </li>
 
               <li class="text-gray-700">
-                <span class="font-semibold text-gray-900"
+                <span class="font-semibold text-gray-900 font-sans"
                   >Global Recognition</span
                 >
                 – Qualifications from New Zealand are respected worldwide,
@@ -67,7 +68,7 @@
               </li>
             </ul>
 
-            <p class="text-gray-700 text-base leading-relaxed mt-6">
+            <p class="text-gray-700 text-base leading-relaxed mt-6 font-sans">
               Studying in New Zealand offers a unique combination of academic
               excellence, personal growth, and unforgettable life experiences in
               one of the world’s most beautiful and inspiring countries.

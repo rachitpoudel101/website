@@ -14,70 +14,70 @@
 
         <!-- Right Content -->
         <div class="order-1 lg:order-2">
-          <h2 class="text-2xl font-bold text-gray-900 mb-6">
+          <h2 class="text-2xl font-bold text-gray-900 mb-6 font-sans">
             Australian Universities Overview
           </h2>
           <ul class="space-y-3 mb-6">
-            <li class="text-gray-700 text-lg">
+            <li class="text-gray-700 text-lg font-sans">
               Australia has <span class="font-semibold">43 universities</span>,
               including 2 private universities (Bond and Notre Dame).
             </li>
-            <li class="text-gray-700 text-lg">
+            <li class="text-gray-700 text-lg font-sans">
               International universities such as
               <span class="font-semibold"
                 >Carnegie Mellon University and University College London</span
               >
               operate campuses in Adelaide.
             </li>
-            <li class="text-gray-700 text-lg">
+            <li class="text-gray-700 text-lg font-sans">
               Australian universities maintain over
               <span class="font-semibold">7,000 global agreements</span> with
               institutions worldwide.
             </li>
-            <li class="text-gray-700 text-lg">
+            <li class="text-gray-700 text-lg font-sans">
               Many universities offer overseas branch campuses, exchange
               programs, and twinning arrangements.
             </li>
           </ul>
 
-          <h2 class="text-2xl font-bold text-gray-900 mb-6">
+          <h2 class="text-2xl font-bold text-gray-900 mb-6 font-sans">
             Global Recognition & Rankings
           </h2>
           <ul class="space-y-3 mb-6">
-            <li class="text-gray-700 text-base">
+            <li class="text-gray-700 text-base font-sans">
               <span class="font-semibold">8 universities</span> ranked among the
               <span class="font-semibold">Top 100</span> globally.
             </li>
-            <li class="text-gray-700 text-base">
+            <li class="text-gray-700 text-base font-sans">
               Ranked <span class="font-semibold">9th</span> in the world
               university ranking system.
             </li>
-            <li class="text-gray-700 text-base">
+            <li class="text-gray-700 text-base font-sans">
               <span class="font-semibold">5</span> Australian cities listed
               among the
               <span class="font-semibold">top 30 best student cities</span>
               globally.
             </li>
-            <li class="text-gray-700 text-xs">
-              Over <span class="font-semibold">22,000 courses</span> available
-              across <span class="font-semibold">1,100 institutions</span>.
+            <li class="text-gray-700 text-xs font-sans">
+              Over <span class="font-semibold font-sans">22,000 courses</span> available
+              across <span class="font-semibold font-sans">1,100 institutions</span>.
             </li>
           </ul>
 
-          <h2 class="text-2xl font-bold text-gray-900 mb-6">
+          <h2 class="text-2xl font-bold text-gray-900 mb-6 font-sans">
             Role of Australian Universities
           </h2>
           <ul class="space-y-3 mb-6">
-            <li class="text-gray-700 text-base">Storing knowledge</li>
-            <li class="text-gray-700 text-base">
+            <li class="text-gray-700 text-base font-sans">Storing knowledge</li>
+            <li class="text-gray-700 text-base font-sans">
               Transferring knowledge to others
             </li>
-            <li class="text-gray-700 text-base">
+            <li class="text-gray-700 text-base font-sans">
               Creating knowledge through research
             </li>
           </ul>
 
-          <p class="text-gray-600 text-base italic">
+          <p class="text-gray-600 text-base italic font-sans text-lg">
             Australia has produced
             <span class="font-semibold">15 Nobel Prize Laureates</span> across
             various academic and research disciplines, supported by strong

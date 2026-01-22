@@ -47,7 +47,7 @@
             </li>
           </ul>
 
-          <p class="text-gray-700 text-base leading-relaxed mb-6">
+          <p class="text-gray-700 text-base leading-relaxed mb-6 font-sans"> 
             International students are required to pay a tuition deposit (not
             more than <span class="font-semibold">50%</span> of the total course
             fees) before the visa stage, as per the ESOS Act.
@@ -64,20 +64,19 @@
               >
               AUD <span class="font-semibold">110–270/week</span>
             </li>
-            <li class="text-gray-700 text-sm">
-              <span class="font-semibold text-gray-900"
+            <li class="text-gray-700 text-lg">
+              <span class="font-semibold text-gray-900 Font-sans"
                 >University Residential Colleges:</span
               >
               AUD <span class="font-semibold">190–280/week</span>
             </li>
-            <li class="text-gray-700 text-sm">
-              <span class="font-semibold text-gray-900"
-                >Private or Church-owned Hostels:</span
-              >
+            <li class="text-gray-700 text-lg">
+              <span class="font-semibold text-gray-900 font- sans"
+                >Private or Church-owned Hostels:</span >
               AUD <span class="font-semibold">80–135/week</span>
             </li>
-            <li class="text-gray-700 text-sm">
-              <span class="font-semibold text-gray-900"
+            <li class="text-gray-700 text-lg">
+              <span class="font-semibold text-gray-900 font-sans"
                 >Shared Accommodation:</span
               >
               AUD <span class="font-semibold">50–160/week</span>
@@ -90,19 +89,19 @@
 
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900">Part-Time Work:</span>
+              <span class="font-semibold text-gray-900 font-sans">Part-Time Work:</span>
               Up to <span class="font-semibold">40 hours per fortnight</span>
               during semesters and full-time during scheduled breaks.
             </li>
-            <li class="text-gray-700 text-sm">
-              <span class="font-semibold text-gray-900"
+            <li class="text-gray-700 text-lg">
+              <span class="font-semibold text-gray-900 font-sans"
                 >Post-Study Work Visa (Subclass 485):</span
               >
               <ul class="ml-6 mt-2 space-y-1">
-                <li class="text-gray-600 text-sm">
+                <li class="text-gray-600 text-md">
                   Graduate Work Stream – 18 months
                 </li>
-                <li class="text-gray-600 text-sm">
+                <li class="text-gray-600 text-md">
                   Post-Study Work Stream – 2 to 4 years (based on qualification)
                 </li>
               </ul>

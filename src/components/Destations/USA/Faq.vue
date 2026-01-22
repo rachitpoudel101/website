@@ -13,17 +13,17 @@
 
         <!-- Right Content -->
         <div class="order-1 lg:order-2">
-          <h2 class="text-3xl font-bold text-gray-900 mb-8">
+          <h2 class="text-3xl font-bold text-gray-900 mb-8 font-sans"> 
             FAQs – Study in the USA for Indian Students
           </h2>
 
           <div class="space-y-5">
             <!-- FAQ 1 -->
             <div>
-              <h3 class="text-lg font-semibold text-gray-900 mb-3">
+              <h3 class="text-lg font-semibold text-gray-900 mb-3 font-sans">
                 Q1. What is the cost of living in the USA for Indian students?
               </h3>
-              <p class="text-gray-700 text-base leading-relaxed">
+              <p class="text-gray-700 text-base leading-relaxed font-sans">
                 The cost of studying and living in the USA varies by university,
                 but on average it is around
                 <span class="font-semibold">US$36,000–60,000 per year</span>,
@@ -33,10 +33,10 @@
 
             <!-- FAQ 2 -->
             <div>
-              <h3 class="text-lg font-semibold text-gray-900 mb-3">
+              <h3 class="text-lg font-semibold text-gray-900 mb-3 font-sans">
                 Q2. Can Indian students get PR in the USA?
               </h3>
-              <p class="text-gray-700 text-base leading-relaxed">
+              <p class="text-gray-700 text-base leading-relaxed font-sans">
                 The USA does not have direct PR for students. Indian students
                 can work on
                 <span class="font-semibold"
@@ -49,10 +49,10 @@
 
             <!-- FAQ 3 -->
             <div>
-              <h3 class="text-lg font-semibold text-gray-900 mb-3">
+              <h3 class="text-lg font-semibold text-gray-900 mb-3 font-sans">
                 Q3. Is English proficiency mandatory for the USA?
               </h3>
-              <p class="text-gray-700 text-base leading-relaxed">
+              <p class="text-gray-700 text-base leading-relaxed font-sans">
                 Yes, an English proficiency test like
                 <span class="font-semibold">TOEFL or IELTS</span> is required
                 for admission to US universities.
@@ -61,10 +61,10 @@
 
             <!-- FAQ 4 -->
             <div>
-              <h3 class="text-lg font-semibold text-gray-900 mb-3">
+              <h3 class="text-lg font-semibold text-gray-900 mb-3 font-sans">
                 Q4. Can Indian students work while studying in the USA?
               </h3>
-              <p class="text-gray-700 text-base leading-relaxed">
+              <p class="text-gray-700 text-base leading-relaxed font-sans">
                 Yes, students on an F-1 visa can work
                 <span class="font-semibold">on-campus</span> up to 20 hours per
                 week during semesters and full-time during breaks. Off-campus
@@ -74,11 +74,11 @@
 
             <!-- FAQ 5 -->
             <div>
-              <h3 class="text-lg font-semibold text-gray-900 mb-3">
+              <h3 class="text-lg font-semibold text-gray-900 mb-3 font-sans">
                 Q5. Which intake is best for Indian students to study in the
                 USA?
               </h3>
-              <p class="text-gray-700 text-base leading-relaxed">
+              <p class="text-gray-700 text-base leading-relaxed font-sans">
                 The Fall intake (August/September) is the main intake, followed
                 by Spring (January). Some universities also offer Summer intakes
                 (May/June) for select programs.

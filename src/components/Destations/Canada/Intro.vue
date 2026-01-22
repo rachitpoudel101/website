@@ -3,7 +3,7 @@
     <div class="max-w-7xl mx-auto">
       <!-- Intro Paragraph - Full Width -->
       <div class="w-full mb-12">
-        <p class="text-gray-700 text-lg leading-relaxed">
+        <p class="text-gray-700 text-lg leading-relaxed font-sans text-lg">
           Canada is one of the most preferred study destinations for
           international students due to its high-quality education system,
           multicultural society, and excellent post-study work opportunities.
@@ -33,7 +33,7 @@
 
             <ul class="space-y-4">
               <li class="text-gray-700 text-lg">
-                <span class="font-semibold text-gray-900"
+                <span class="font-semibold text-gray-900 font-sans"
                   >World-Class Education</span
                 >
                 – Canadian universities and colleges are internationally
@@ -41,7 +41,7 @@
               </li>
 
               <li class="text-gray-700 text-lg">
-                <span class="font-semibold text-gray-900"
+                <span class="font-semibold text-gray-900 font-sans"
                   >Affordable Study Options</span
                 >
                 – Tuition fees and living costs are comparatively lower than
@@ -49,7 +49,7 @@
               </li>
 
               <li class="text-gray-700 text-lg">
-                <span class="font-semibold text-gray-900"
+                <span class="font-semibold text-gray-900 font-sans"
                   >Post-Graduation Work Permit (PGWP)</span
                 >
                 – Students can work for up to
@@ -58,7 +58,7 @@
               </li>
 
               <li class="text-gray-700 text-lg">
-                <span class="font-semibold text-gray-900"
+                <span class="font-semibold text-gray-900 font-sans"
                   >Work While Studying</span
                 >
                 – International students can work up to
@@ -67,7 +67,7 @@
               </li>
 
               <li class="text-gray-700 text-lg">
-                <span class="font-semibold text-gray-900"
+                <span class="font-semibold text-gray-900 font-sans"
                   >PR & Immigration Opportunities</span
                 >
                 – Canada offers clear pathways to permanent residency through
@@ -76,7 +76,7 @@
               </li>
             </ul>
 
-            <p class="text-gray-700 text-lg leading-relaxed mt-6">
+            <p class="text-gray-700 text-lg leading-relaxed mt-6 font-sans">
               Graduates in Canada benefit from strong employment prospects in
               fields such as IT, healthcare, engineering, business, and skilled
               trades, supported by a stable economy and inclusive work
