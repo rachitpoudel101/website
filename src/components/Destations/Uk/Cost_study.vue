@@ -10,7 +10,9 @@
 
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Tuition Fees:</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >Tuition Fees:</span
+              >
               <span class="font-semibold">£9,500–£13,000/year</span> for
               undergraduate courses and
               <span class="font-semibold">£12,000–£15,000/year</span> for
@@ -36,8 +38,11 @@
             <span class="text-orange-600 font-medium font-sans text-lg"
               >Grace International India</span
             >
-            <span class="font-sans text-lg"> assists Indian students with accurate financial planning, budgeting,
-            and UKVI-compliant documentation for studying in the UK.</span>
+            <span class="font-sans text-lg">
+              assists Indian students with accurate financial planning,
+              budgeting, and UKVI-compliant documentation for studying in the
+              UK.</span
+            >
           </p>
 
           <h2 class="text-xl font-bold text-gray-900 mb-5 font-sans">
@@ -46,36 +51,48 @@
 
           <ul class="space-y-2.5 mb-4">
             <li class="text-gray-700 text-sm">
-              <span class="font-semibold text-gray-900 font-sans text-lg">Part-Time Work:</span>
+              <span class="font-semibold text-gray-900 font-sans text-lg"
+                >Part-Time Work:</span
+              >
               <span class="font-sans text-lg"> Up to</span>
-              
-              <span class="font-semibold font-sans text-lg"> 20 hours per week</span> 
-              <span class="text-lg font-sans">during term
-              time and full-time during holidays.</span>
-              
+
+              <span class="font-semibold font-sans text-lg">
+                20 hours per week</span
+              >
+              <span class="text-lg font-sans"
+                >during term time and full-time during holidays.</span
+              >
             </li>
             <li class="text-gray-700 text-sm">
               <span class="font-semibold text-gray-900 font-sans text-lg"
                 >Post-Study Work Visa (Graduate Route):</span
               >
               <ul class="ml-6 mt-2 space-y-1">
-                <li class="text-gray-600 text-lg font-sans">Bachelor’s – 2 years</li>
-                <li class="text-gray-600 text-lg font-sans">Master’s – 2 years</li>
+                <li class="text-gray-600 text-lg font-sans">
+                  Bachelor’s – 2 years
+                </li>
+                <li class="text-gray-600 text-lg font-sans">
+                  Master’s – 2 years
+                </li>
                 <li class="text-gray-600 text-lg font-sans">PhD – 3 years</li>
               </ul>
             </li>
           </ul>
 
-          <p class="text-gray-700  leading-relaxed mb-5 text-lg font-sans">
+          <p class="text-gray-700 leading-relaxed mb-5 text-lg font-sans">
             The UK Graduate Route allows international students to gain valuable
             work experience after completing their studies.
           </p>
 
           <p class="text-gray-700 text-base leading-relaxed">
-            <span class="font-semibold text-gray-900 text-lg font-sans">Career Pathways:</span>
-           <span class="text-lg font-sans"> UK work experience significantly improves global employability,
-            especially in sectors like IT, healthcare, finance, engineering, and
-            business management.</span>
+            <span class="font-semibold text-gray-900 text-lg font-sans"
+              >Career Pathways:</span
+            >
+            <span class="text-lg font-sans">
+              UK work experience significantly improves global employability,
+              especially in sectors like IT, healthcare, finance, engineering,
+              and business management.</span
+            >
           </p>
         </div>
 
@@ -83,18 +100,18 @@
         <div
           class="order-2 lg:order-2 flex items-center justify-center opacity-0 animate-zoomIn delay-1500"
         >
-        <div
-          class="order-2 lg:order-2 flex items-center justify-center opacity-0 animate-zoomIn delay-1500"
-        >
-          <img
-            :src="bgImage"
-            alt="Students studying in the UK"
-            class="rounded-lg shadow-lg w-full h-auto object-cover min-h-[600px]"
-          />
+          <div
+            class="order-2 lg:order-2 flex items-center justify-center opacity-0 animate-zoomIn delay-1500"
+          >
+            <img
+              :src="bgImage"
+              alt="Students studying in the UK"
+              class="rounded-lg shadow-lg w-full h-auto object-cover min-h-[600px]"
+            />
+          </div>
         </div>
       </div>
     </div>
-  </div>
   </div>
 </template>
 

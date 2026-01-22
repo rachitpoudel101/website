@@ -36,7 +36,7 @@
 
             <!-- FAQ 2 -->
             <div>
-              <h3 class="text-lg font-semibold text-gray-900 mb-3 font-sans ">
+              <h3 class="text-lg font-semibold text-gray-900 mb-3 font-sans">
                 Q2. What is ELICOS and why is it important?
               </h3>
               <p class="text-gray-700 text-base leading-relaxed font-sans">

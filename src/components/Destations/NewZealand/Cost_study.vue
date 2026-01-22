@@ -10,12 +10,16 @@
 
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Tuition Fees:</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >Tuition Fees:</span
+              >
               NZ$20,000/year for Arts & Social Sciences, NZ$25,000/year for
               Science & Engineering, NZ$75,000/year for Dentistry & Medicine.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Living Costs:</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >Living Costs:</span
+              >
               On average NZ$120–$200 per week depending on accommodation type
               (shared flat, private flat, student residence).
             </li>
@@ -31,7 +35,10 @@
             <span class="text-orange-600 font-medium font-sans"
               >Grace International India</span
             >
-            <span class="text-lg font sans"> asssits Indian students with biudgeting,financial palnning anf documentation for studying in New Zealand</span>
+            <span class="text-lg font sans">
+              asssits Indian students with biudgeting,financial palnning anf
+              documentation for studying in New Zealand</span
+            >
           </p>
 
           <h2 class="text-2xl font-bold text-gray-900 mb-6 font-sans">
@@ -40,7 +47,9 @@
 
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Part-Time Work:</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >Part-Time Work:</span
+              >
               Up to 20 hours per week during study and full-time during
               holidays.
             </li>
@@ -60,10 +69,14 @@
           </p>
 
           <p class="text-gray-700 text-base leading-relaxed">
-            <span class="font-semibold text-gray-900 font-sans text-lg">Career Pathways:</span>
-            <span class="font-sans text-md"> International students can gain valuable skills, networking
-            opportunities, and professional exposure through part-time work and
-            post-study employment, helping build global careers.</span>
+            <span class="font-semibold text-gray-900 font-sans text-lg"
+              >Career Pathways:</span
+            >
+            <span class="font-sans text-md">
+              International students can gain valuable skills, networking
+              opportunities, and professional exposure through part-time work
+              and post-study employment, helping build global careers.</span
+            >
           </p>
         </div>
 

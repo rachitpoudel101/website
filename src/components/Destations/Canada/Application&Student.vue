@@ -10,12 +10,16 @@
 
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Major Intakes:</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >Major Intakes:</span
+              >
               September is the main intake, with January and May start dates for
               select programs.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Requirements:</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >Requirements:</span
+              >
               Academic transcripts, proof of English proficiency (IELTS, PTE,
               TOEFL), statement of purpose (SOP), letters of recommendation
               (LORs), and financial proof.
@@ -30,7 +34,9 @@
             </li>
           </ul>
 
-          <p class="text-gray-700 text-base leading-relaxed mb-6 font-sans text-lg">
+          <p
+            class="text-gray-700 text-base leading-relaxed mb-6 font-sans text-lg"
+          >
             Grace International India helps students with every step of the
             Canada student visa process, from document preparation to online
             application guidance and visa submission support.

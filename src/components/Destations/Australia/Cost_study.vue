@@ -47,7 +47,7 @@
             </li>
           </ul>
 
-          <p class="text-gray-700 text-base leading-relaxed mb-6 font-sans"> 
+          <p class="text-gray-700 text-base leading-relaxed mb-6 font-sans">
             International students are required to pay a tuition deposit (not
             more than <span class="font-semibold">50%</span> of the total course
             fees) before the visa stage, as per the ESOS Act.
@@ -72,7 +72,8 @@
             </li>
             <li class="text-gray-700 text-lg">
               <span class="font-semibold text-gray-900 font- sans"
-                >Private or Church-owned Hostels:</span >
+                >Private or Church-owned Hostels:</span
+              >
               AUD <span class="font-semibold">80–135/week</span>
             </li>
             <li class="text-gray-700 text-lg">
@@ -89,7 +90,9 @@
 
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Part-Time Work:</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >Part-Time Work:</span
+              >
               Up to <span class="font-semibold">40 hours per fortnight</span>
               during semesters and full-time during scheduled breaks.
             </li>

@@ -7,8 +7,7 @@
           <img
             :src="australia1"
             alt="Graduate Student in Australia"
-              class="rounded-lg shadow-lg w-full h-auto object-contain"
-
+            class="rounded-lg shadow-lg w-full h-auto object-contain"
           />
         </div>
 
@@ -59,8 +58,10 @@
               globally.
             </li>
             <li class="text-gray-700 text-xs font-sans">
-              Over <span class="font-semibold font-sans">22,000 courses</span> available
-              across <span class="font-semibold font-sans">1,100 institutions</span>.
+              Over
+              <span class="font-semibold font-sans">22,000 courses</span>
+              available across
+              <span class="font-semibold font-sans">1,100 institutions</span>.
             </li>
           </ul>
 

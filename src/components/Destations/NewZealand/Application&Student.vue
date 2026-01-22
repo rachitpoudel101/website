@@ -10,11 +10,15 @@
 
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Major Intakes:</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >Major Intakes:</span
+              >
               February, July (main intakes), and October (select universities).
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Requirements:</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >Requirements:</span
+              >
               English proficiency (IELTS, TOEFL, PTE), academic transcripts,
               Statement of Purpose (SOP), Letters of Recommendation (LORs),
               portfolio (if applicable), and proof of funds.
@@ -28,7 +32,9 @@
               evidence of English language proficiency.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Work Rights:</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >Work Rights:</span
+              >
               Part-time work up to 20 hours/week during study and full-time
               during holidays. Post-study work visas available for 1–3 years
               depending on qualification.

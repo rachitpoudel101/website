@@ -9,13 +9,17 @@
           </h2>
 
           <ul class="space-y-3 mb-6">
-            <li class="text-gray-700 text-lg ">
-              <span class="font-semibold text-gray-900 font-sans">Tuition Fees:</span>
+            <li class="text-gray-700 text-lg">
+              <span class="font-semibold text-gray-900 font-sans"
+                >Tuition Fees:</span
+              >
               CAD <span class="font-semibold">15,000–30,000/year</span>
               depending on the program and institution.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Living Costs:</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >Living Costs:</span
+              >
               CAD <span class="font-semibold">10,000–15,000/year</span>
               depending on city and lifestyle.
             </li>
@@ -33,8 +37,10 @@
               >Grace International India</span
             >
             <span> </span>
-             <span class="font-sans text-gray-700"> helps students plan budgets, choose affordable institutions, and
-            manage living expenses effectively in Canada.</span>
+            <span class="font-sans text-gray-700">
+              helps students plan budgets, choose affordable institutions, and
+              manage living expenses effectively in Canada.</span
+            >
           </p>
 
           <h2 class="text-2xl font-bold text-gray-900 mb-6 font-sans">
@@ -43,7 +49,9 @@
 
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Part-Time Work:</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >Part-Time Work:</span
+              >
               Up to
               <span class="font-semibold">20 hours per week</span> during study
               sessions and full-time during scheduled breaks.
@@ -64,13 +72,17 @@
           </p>
 
           <p class="text-gray-700 text-base leading-relaxed">
-            <span class="font-semibold text-gray-900 font-sans text-lg">PR Pathways:</span>
+            <span class="font-semibold text-gray-900 font-sans text-lg"
+              >PR Pathways:</span
+            >
             International students can apply for permanent residency through
             programs such as
             <span class="font-semibold"
               >Express Entry and Provincial Nominee Programs (PNP)</span
             >
-            <span class="font-sans text-gray-900 text-md"> after gaining skilled work experience.</span>
+            <span class="font-sans text-gray-900 text-md">
+              after gaining skilled work experience.</span
+            >
           </p>
         </div>
 

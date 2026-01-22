@@ -10,24 +10,33 @@
 
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Major Intakes:</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >Major Intakes:</span
+              >
               <p>February and July (some universities also offer October).</p>
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Requirements:</span>
-             <p> English proficiency (IELTS, PTE, TOEFL), academic transcripts,
-              SOP, LORs, financial proof. </p>
+              <span class="font-semibold text-gray-900 font-sans"
+                >Requirements:</span
+              >
+              <p>
+                English proficiency (IELTS, PTE, TOEFL), academic transcripts,
+                SOP, LORs, financial proof.
+              </p>
             </li>
             <li class="text-gray-700 text-lg">
               <span class="font-semibold text-gray-900 font-sans"
-                >Student Visa (Subclass 500):</span>
+                >Student Visa (Subclass 500):</span
               >
-              Requires Confirmation of Enrolment (CoE), Overseas Student Health 
-              Cover (OSHC), and proof of funds for tuition + living expenses.
+              > Requires Confirmation of Enrolment (CoE), Overseas Student
+              Health Cover (OSHC), and proof of funds for tuition + living
+              expenses.
             </li>
           </ul>
 
-          <p class="text-gray-700 text-base leading-relaxed mb-6  text-md font-sans">
+          <p
+            class="text-gray-700 text-base leading-relaxed mb-6 text-md font-sans"
+          >
             Our team guides students through every step of the Australia student
             visa process in Delhi, ensuring high success rates.
           </p>

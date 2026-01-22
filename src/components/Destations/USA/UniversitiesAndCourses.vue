@@ -25,7 +25,9 @@
             <li class="text-gray-700 text-lg font-sans">
               University of California, Los Angeles (UCLA)
             </li>
-            <li class="text-gray-700 text-lg font-sans">University of Michigan</li>
+            <li class="text-gray-700 text-lg font-sans">
+              University of Michigan
+            </li>
           </ul>
 
           <h2 class="text-2xl font-bold text-gray-900 mb-6 font-sans">
@@ -38,7 +40,9 @@
             <li class="text-gray-700 text-lg font-sans">
               Business & Management (including MBA)
             </li>
-            <li class="text-gray-700 text-lg font-sans">Computer Science & IT</li>
+            <li class="text-gray-700 text-lg font-sans">
+              Computer Science & IT
+            </li>
             <li class="text-gray-700 text-lg font-sans">
               Health Sciences (Nursing, Public Health, Pharmacy)
             </li>

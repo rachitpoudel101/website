@@ -13,7 +13,7 @@
 
         <!-- Right Content -->
         <div class="order-1 lg:order-2">
-          <h2 class="text-3xl font-bold text-gray-900 mb-8 font-sans"> 
+          <h2 class="text-3xl font-bold text-gray-900 mb-8 font-sans">
             FAQs – Study in the USA for Indian Students
           </h2>
 

@@ -32,7 +32,10 @@
               tuition.
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Living Costs:</span> USD
+              <span class="font-semibold text-gray-900 font-sans"
+                >Living Costs:</span
+              >
+              USD
               <span class="font-semibold">10,000–15,000/year</span> depending on
               city and lifestyle.
             </li>
@@ -50,9 +53,10 @@
             <span class="text-orange-600 font-medium font-sans text-lg"
               >Grace International India</span
             >
-            <span class="font-sans text-gray-700">provides guidance on budgeting, financial aid, and managing expenses
-            for Indian students in the USA.
-          </span>
+            <span class="font-sans text-gray-700"
+              >provides guidance on budgeting, financial aid, and managing
+              expenses for Indian students in the USA.
+            </span>
           </p>
 
           <h2 class="text-3xl font-bold text-gray-900 mb-6 font-sans">
@@ -61,7 +65,9 @@
 
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">On-Campus Work:</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >On-Campus Work:</span
+              >
               Indian students on F-1 visas can work part-time
               <span class="font-semibold">up to 20 hours per week</span> during
               semesters; full-time during breaks.
@@ -81,7 +87,9 @@
             </li>
           </ul>
 
-          <p class="text-gray-700 text-base leading-relaxed mb-6 font-sans text-lg">
+          <p
+            class="text-gray-700 text-base leading-relaxed mb-6 font-sans text-lg"
+          >
             OPT allows Indian students to gain practical work experience in the
             USA after graduation.
           </p>

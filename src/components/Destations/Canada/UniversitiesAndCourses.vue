@@ -17,13 +17,19 @@
             Top Universities in Canada
           </h2>
           <ul class="space-y-3 mb-6">
-            <li class="text-gray-700 text-lg font-sans">University of Toronto</li>
+            <li class="text-gray-700 text-lg font-sans">
+              University of Toronto
+            </li>
             <li class="text-gray-700 text-lg font-sans">
               University of British Columbia (UBC)
             </li>
             <li class="text-gray-700 text-lg font-sans">McGill University</li>
-            <li class="text-gray-700 text-lg font-sans">University of Alberta</li>
-            <li class="text-gray-700 text-lg font-sans">University of Waterloo</li>
+            <li class="text-gray-700 text-lg font-sans">
+              University of Alberta
+            </li>
+            <li class="text-gray-700 text-lg font-sans">
+              University of Waterloo
+            </li>
           </ul>
 
           <h2 class="text-2xl font-bold text-gray-900 mb-6 font-sans">
@@ -33,7 +39,9 @@
             <li class="text-gray-700 text-lg font-sans">
               Business & Management (MBA, Finance, Analytics)
             </li>
-            <li class="text-gray-700 text-lg font-sans">IT & Computer Science</li>
+            <li class="text-gray-700 text-lg font-sans">
+              IT & Computer Science
+            </li>
             <li class="text-gray-700 text-lg font-sans">
               Engineering (Computer, Mechanical, Civil, Electrical)
             </li>
@@ -45,8 +53,7 @@
             </li>
           </ul>
 
-          <h2 class="text-2xl font-bold text-gray-900 mb-6 font
-          -sans">
+          <h2 class="text-2xl font-bold text-gray-900 mb-6 font -sans">
             Scholarships for Indian Students
           </h2>
           <ul class="space-y-3 mb-6">

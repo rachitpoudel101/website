@@ -38,21 +38,27 @@
             </li>
 
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">ELICOS Programs</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >ELICOS Programs</span
+              >
               – English language courses ranging from 4 to 48 weeks, with at
               least 20 hours of study per week and flexible intake dates
               throughout the year.
             </li>
 
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Universities</span> –
-              Australia has 43 universities offering over 22,000 courses across
-              1,100 institutions, with strong global rankings and research
-              focus.
+              <span class="font-semibold text-gray-900 font-sans"
+                >Universities</span
+              >
+              – Australia has 43 universities offering over 22,000 courses
+              across 1,100 institutions, with strong global rankings and
+              research focus.
             </li>
           </ul>
 
-          <p class="text-gray-700 text-base leading-relaxed mt-6 font-sans text-md">
+          <p
+            class="text-gray-700 text-base leading-relaxed mt-6 font-sans text-md"
+          >
             After completing their studies, international students may be
             eligible for the Temporary Graduate Visa (Subclass 485), allowing
             them to gain valuable work experience in Australia for up to 2–4

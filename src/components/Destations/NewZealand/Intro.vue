@@ -28,17 +28,20 @@
                 <span class="font-semibold text-gray-900 font-sans"
                   >World-Class Universities</span
                 >
-                <span class ="font-sans">- New Zealand’s universities rank in the top 3% globally,
-                offering degrees recognized internationally.</span>
-                
+                <span class="font-sans"
+                  >- New Zealand’s universities rank in the top 3% globally,
+                  offering degrees recognized internationally.</span
+                >
               </li>
 
               <li class="text-gray-700">
                 <span class="font-semibold text-gray-900 font-sans"
                   >Practical Learning</span
                 >
-                <span class="font-sans">- Hands-on, student-centered education helps develop
-                problem-solving, teamwork, and critical-thinking skills.</span>
+                <span class="font-sans"
+                  >- Hands-on, student-centered education helps develop
+                  problem-solving, teamwork, and critical-thinking skills.</span
+                >
               </li>
 
               <li class="text-gray-700">

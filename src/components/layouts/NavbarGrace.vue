@@ -193,7 +193,7 @@
                           $route.path === '/university/uk',
                       }"
                       >UK</router-link
-                    > 
+                    >
                   </li>
                   <li>
                     <router-link

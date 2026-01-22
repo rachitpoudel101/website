@@ -30,7 +30,7 @@
         <!-- Content Section -->
         <div>
           <div class="prose max-w-none">
-            <h2 class="text-2xl font-bold text-gray-900 mb-6  font-sans">
+            <h2 class="text-2xl font-bold text-gray-900 mb-6 font-sans">
               Why Study in the USA?
             </h2>
 
@@ -78,7 +78,9 @@
               </li>
             </ul>
 
-            <p class="text-gray-700 text-base leading-relaxed mt-6 font-sans text-lg">
+            <p
+              class="text-gray-700 text-base leading-relaxed mt-6 font-sans text-lg"
+            >
               Indian students in the USA also benefit from strong industry
               links, networking opportunities, and pathways to work experience
               that help build successful international careers.

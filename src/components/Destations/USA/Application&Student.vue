@@ -10,12 +10,16 @@
 
           <ul class="space-y-3 mb-6">
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Major Intakes:</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >Major Intakes:</span
+              >
               Fall (August/September) and Spring (January), some universities
               also offer Summer (May/June).
             </li>
             <li class="text-gray-700 text-lg">
-              <span class="font-semibold text-gray-900 font-sans">Requirements:</span>
+              <span class="font-semibold text-gray-900 font-sans"
+                >Requirements:</span
+              >
               English proficiency (TOEFL, IELTS), GRE/GMAT (for some programs),
               academic transcripts, SOP, LORs, financial proof.
             </li>

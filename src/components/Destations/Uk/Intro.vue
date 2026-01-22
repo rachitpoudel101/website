@@ -36,42 +36,53 @@
                 <span class="font-semibold text-gray-900 font-sans"
                   >World-Ranked Institutions</span
                 >
-               <span class="font-sans"> – UK institutions consistently rank among the best in the world,
-                and UK qualifications are internationally valued and recognized.</span>
+                <span class="font-sans">
+                  – UK institutions consistently rank among the best in the
+                  world, and UK qualifications are internationally valued and
+                  recognized.</span
+                >
               </li>
 
               <li class="text-gray-700">
                 <span class="font-semibold text-gray-900 font-sans"
                   >Excellence in Research</span
                 >
-                <span class="font-sans"> – The UK undertakes 5% of the world’s scientific research and
-                produces 14% of the most frequently cited research papers
-                globally.</span>
+                <span class="font-sans">
+                  – The UK undertakes 5% of the world’s scientific research and
+                  produces 14% of the most frequently cited research papers
+                  globally.</span
+                >
               </li>
 
               <li class="text-gray-700">
                 <span class="font-semibold text-gray-900 font-sans"
                   >Flexible Education System</span
                 >
-               <span class="font-sans"> – Students can choose from academic and vocational pathways,
-                allowing flexibility to tailor degrees based on career goals.</span>
+                <span class="font-sans">
+                  – Students can choose from academic and vocational pathways,
+                  allowing flexibility to tailor degrees based on career
+                  goals.</span
+                >
               </li>
 
               <li class="text-gray-700">
                 <span class="font-semibold text-gray-900 font-sans"
                   >Innovative Teaching Methods</span
                 >
-               <span class="font-sans"> – The UK education system encourages creativity, independent
-                thinking, skill development, and confidence building.</span>
+                <span class="font-sans">
+                  – The UK education system encourages creativity, independent
+                  thinking, skill development, and confidence building.</span
+                >
               </li>
 
               <li class="text-gray-700">
                 <span class="font-semibold text-gray-900 font-sans"
                   >Learn from Global Experts</span
                 >
-                <span class="font-sans">– Students are taught by world-leading academics and industry
-                professionals with continuous academic support.</span>
-                
+                <span class="font-sans"
+                  >– Students are taught by world-leading academics and industry
+                  professionals with continuous academic support.</span
+                >
               </li>
             </ul>
 

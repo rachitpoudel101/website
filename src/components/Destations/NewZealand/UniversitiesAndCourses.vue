@@ -17,15 +17,21 @@
             Top Universities in New Zealand
           </h2>
           <ul class="space-y-3 mb-6">
-            <li class="text-gray-700 text-lg font-sans">The University of Auckland</li>
+            <li class="text-gray-700 text-lg font-sans">
+              The University of Auckland
+            </li>
             <li class="text-gray-700 text-lg font-sans">AUT University</li>
             <li class="text-gray-700 text-lg font-sans">Lincoln University</li>
             <li class="text-gray-700 text-lg font-sans">
               Victoria University of Wellington
             </li>
             <li class="text-gray-700 text-lg font-sans">Massey University</li>
-            <li class="text-gray-700 text-lg font-sans">The University of Waikato</li>
-            <li class="text-gray-700 text-lg font-sans">The University of Canterbury</li>
+            <li class="text-gray-700 text-lg font-sans">
+              The University of Waikato
+            </li>
+            <li class="text-gray-700 text-lg font-sans">
+              The University of Canterbury
+            </li>
           </ul>
 
           <h2 class="text-2xl font-bold text-gray-900 mb-6 font-sans">
@@ -47,7 +53,9 @@
             <li class="text-gray-700 text-lg font-sans">
               Hospitality & Tourism Management
             </li>
-            <li class="text-gray-700 text-lg font-sans">Creative Arts & Design</li>
+            <li class="text-gray-700 text-lg font-sans">
+              Creative Arts & Design
+            </li>
           </ul>
 
           <h2 class="text-2xl font-bold text-gray-900 mb-6 font-sans">
