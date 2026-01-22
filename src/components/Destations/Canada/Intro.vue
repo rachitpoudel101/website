@@ -91,6 +91,41 @@
 
 <script setup>
 import bgImage from "@/assets/canada.webp";
+
+// Refs for animation
+const introParagraph = ref(null);
+const imageSection = ref(null);
+const contentSection = ref(null);
+
+let observer = null;
+
+onMounted(() => {
+  const options = {
+    threshold: 0.15,
+    rootMargin: "0px 0px -50px 0px",
+  };
+
+  observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add("is-visible");
+      }
+    });
+  }, options);
+
+  const sections = [
+    introParagraph.value,
+    imageSection.value,
+    contentSection.value,
+  ];
+  sections.forEach((section) => {
+    if (section) observer.observe(section);
+  });
+});
+
+onUnmounted(() => {
+  if (observer) observer.disconnect();
+});
 </script>
 
 <style scoped></style>

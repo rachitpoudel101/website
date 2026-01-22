@@ -18,6 +18,7 @@
           style="min-height: 400px; max-height: 500px"
         />
       </div>
+
       <div
         class="flex-1 bg-blue-50 px-8 pt-4 pb-8 rounded-lg flex flex-col justify-start h-full"
       >

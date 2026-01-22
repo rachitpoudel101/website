@@ -3,7 +3,12 @@
     <div class="max-w-7xl mx-auto">
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-start">
         <!-- Left Image -->
-        <div class="order-2 lg:order-1 flex items-center justify-center">
+        <div
+          class="order-2 lg:order-1 flex items-center justify-center opacity-0 animate-zoomIn delay-100"
+        >
+        <div
+          class="order-2 lg:order-1 flex items-center justify-center opacity-0 animate-zoomIn delay-100"
+        >
           <img
             :src="bgImage"
             alt="Graduate Student in the UK"

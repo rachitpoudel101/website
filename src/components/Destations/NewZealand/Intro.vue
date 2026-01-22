@@ -89,5 +89,7 @@
 </template>
 
 <script setup>
+import { ref, onMounted, onUnmounted } from "vue";
+import { ref, onMounted, onUnmounted } from "vue";
 import bgImage from "@/assets/newzealand.png";
 </script>

@@ -1,9 +1,13 @@
 <template>
   <div class="bg-white py-16 px-4 sm:px-6 lg:px-8">
     <div class="max-w-7xl mx-auto">
-      <!-- Intro Paragraph - Full Width -->
-      <div class="w-full mb-12">
-        <p class="text-gray-700 text-lg leading-relaxed text-sans">
+      <!-- Intro Paragraph - Animated -->
+      <div
+        ref="introParagraph"
+        class="animate-section mb-12"
+        data-animation="fade-up"
+      >
+        <p class="text-gray-700 text-lg leading-relaxed">
           The United States (USA) is one of the most sought-after study abroad
           destinations for Indian students. With world-renowned universities,
           cutting-edge research opportunities, diverse programs, and flexible
